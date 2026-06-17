@@ -1,0 +1,43 @@
+# Claude Code (local only, not for public repos)
+CLAUDE.md
+.claude/
+
+# Data (track code, not data)
+data/
+
+# Background literature (PDFs, notes — not tracked)
+background/
+
+# Working markdown — planning docs, design notes
+agents/
+
+# Scratch/temporary files
+scratch/
+
+# Archived project emails
+_emails/
+
+# LaTeX intermediate files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.run.xml
+*.synctex.gz
+*.lof
+*.lot
+*.idx
+*.ilg
+*.ind
+
+# OS files
+.DS_Store
+Thumbs.db
