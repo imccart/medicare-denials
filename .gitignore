@@ -2,8 +2,8 @@
 CLAUDE.md
 .claude/
 
-# Data (track code, not data)
-data/
+# Data (track code, not data) -- anchored to repo root so code/data/ stays tracked
+/data/
 
 # Background literature (PDFs, notes — not tracked)
 background/
